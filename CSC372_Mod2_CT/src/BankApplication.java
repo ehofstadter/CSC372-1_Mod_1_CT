@@ -3,8 +3,9 @@ import java.awt.event.*;
 
 /*******************************************************************************
  * A simple GUI application to allow users to interact with a fake bank account
- * 
-*/
+ * Allows user to set initial balance, make additional withdrawals and deposits
+ * On application exit, displays final message with account balance
+*******************************************************************************/
 public class BankApplication {
 
 	public static void main(String[] args) {
